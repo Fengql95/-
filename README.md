@@ -24,3 +24,7 @@
 ## [二、MachineLearning——机器学习算法](https://github.com/Fengql95/Data-Analysis/tree/Feng/Machine%20Learning)
 
 ## [三、Projects——实践项目](https://github.com/Fengql95/Data-Analysis/tree/Feng/Projects)
+
+>[1.决策树算法——泰坦尼克号获救预测](https://github.com/Fengql95/Data-Analysis/tree/Feng/Projects/DecisionTree-Titanic)
+
+>[2.逻辑回归算法——泰坦尼克号获救预测](https://github.com/Fengql95/Data-Analysis/tree/Feng/Projects/LinerModel-Titanic)
