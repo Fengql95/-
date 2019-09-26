@@ -1,7 +1,7 @@
 # 数据分析实践
-## [一、Data-Visualization——数据可视化](https://github.com/Fengql95/Data-Analysis/tree/master/Data-Analysis/Data-Visualization "悬停显示")
+## [一、Data-Visualization——数据可视化](https://github.com/Fengql95/Data-Analysis/tree/master/Data-Analysis/Data-Visualization)
 
->[1.ScatterPlot——散点图](https://github.com/Fengql95/Data-Analysis/blob/master/Data-Analysis/Data-Visualization/ScatterPlot.ipynb)
+>[1.ScatterPlot——散点图](https://github.com/Fengql95/Data-Analysis/blob/Feng/Data-Visualization/ScatterPlot.ipynb)
 
 >[2.BarsPlot——条形图](https://github.com/Fengql95/Data-Analysis/blob/Feng/Data-Visualization/BarsPlot.ipynb)
 
